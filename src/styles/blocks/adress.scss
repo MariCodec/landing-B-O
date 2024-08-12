@@ -14,6 +14,11 @@
     letter-spacing: 0.15px;
     color: #191919;
     padding-top: 8px;
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: scale(1.05);
+    }
   }
 
   @include on-desktop {

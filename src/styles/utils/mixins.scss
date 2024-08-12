@@ -32,6 +32,8 @@
 }
 
 @mixin button-effect($property, $toValue) {
+  cursor: pointer;
+
   @include hover($property, $toValue);
 
   &:focus {
