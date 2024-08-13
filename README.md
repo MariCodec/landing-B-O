@@ -38,5 +38,3 @@ The design can be viewed on [Figma](https://www.figma.com/design/DtkQmQ797hk0nI4
 5. **Open Your Browser:**
     Visit `http://localhost:3000` to view the project.
 
-**Note:** SCSS files are compiled into CSS as part of the development process. Ensure you have the required build tools set up (e.g., Webpack or a similar bundler) to handle SCSS compilation.
-
