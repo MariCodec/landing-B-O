@@ -1,11 +1,42 @@
 # BANG & OLUFSEN Webpage
 
-Цей проект є веб-сторінкою для бренду BANG & OLUFSEN, що демонструє їхні продукти та послуги. Сторінка включає інформацію про рекомендовані продукти, категорії, про компанію, контактні дані,та форму для зворотного зв'язку.
-У проекті використані наступні технології:
-HTML5: Для структури веб-сторінки.
-SCSS: Для стилізації. Використовується препроцесор SCSS для організації стилів.
-CSS Grid: Для організації макету сторінки і створення гнучких і адаптивних дизайнів.
-# Дизайн
-Дизайн проекту у [Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=QoGiwqSOVCAap6B3-0).
-# Перегляд сайту
- Ви можете переглянути [демо-версію сайту](https://MariCodec.github.io/landing-B-O/)
+This project is a website for the BANG & OLUFSEN brand, showcasing their products and services. It includes sections on recommended products, product categories, company information, contact details, and a feedback form.
+
+Technologies Used
+HTML5: For structuring the web page.
+SCSS: For styling. Utilizes the SCSS preprocessor for organized styles.
+CSS Grid: For layout organization and creating flexible, responsive designs.
+# Design
+The design can be viewed on [Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=QoGiwqSOVCAap6B3-0).
+# Demo
+ You can explore the [demo version of the site](https://MariCodec.github.io/landing-B-O/)
+
+
+### Running the Project
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/MariCodec/landing-B-O.git
+    ```
+
+2. **Navigate to the Project Directory:**
+    ```bash
+    cd landing-B-O
+    ```
+
+3. **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+
+4. **Start the Development Server:**
+    ```bash
+    npm start
+    ```
+
+5. **Open Your Browser:**
+    Visit `http://localhost:3000` to view the project.
+
+**Note:** SCSS files are compiled into CSS as part of the development process. Ensure you have the required build tools set up (e.g., Webpack or a similar bundler) to handle SCSS compilation.
+
